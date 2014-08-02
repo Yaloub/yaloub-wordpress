@@ -1,0 +1,3 @@
+[submodule "yaloub-php-sdk"]
+	path = yaloub-php-sdk
+	url = https://github.com/Yaloub/yaloub-php-sdk.git
